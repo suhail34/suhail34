@@ -6,6 +6,8 @@
 #### Connect With Me
 <a href="https://www.linkedin.com/in/suhail-khan-b505531b8/"> <img src="https://w7.pngwing.com/pngs/402/997/png-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text.png" alt="linkedin icon" width="24"></a><br><br>
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhail34&theme=blue-green)
+
 ![Repository Stats](https://github-readme-stats.vercel.app/api?username=suhail34&show_icons=true)
 
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=suhail34&theme=vision-friendly-dark)
