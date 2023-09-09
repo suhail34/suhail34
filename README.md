@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/suhailk71070185" target="blank"><img src="https://img.shields.io/twitter/follow/suhailk71070185?logo=twitter&style=for-the-badge" alt="suhailk71070185" /></a> </p>
 
-- 🔭 I’m currently working on [Meshery](https://github.com/meshery/meshery)
-
 - 🌱 I’m currently learning **Cloud Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/suhail34?tab=repositories](https://github.com/suhail34?tab=repositories)
